@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">✨ Creating simple things that look advanced<br>📚 I'm currently learning JavaScript, UI design, and building full web apps from scratch<br>🎯 Goal: Build a strong portfolio <br>🎲 Fun fact: I code better when im in stress</p>
+<p align="left">🔭 I’m currently working on Personal Finance Insight Engine <br>📚 I'm currently learning JavaScript, Python , Postgres SQL<br>🎯 Goal: Build a strong portfolio <br>🎲 Fun fact: I code better when im in stress
+</p>
 
 ###
 
