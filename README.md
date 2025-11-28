@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Advaith Sarma and I'm a B.Tech AI + DS Student</p>
+<p align="left">My name is Advaith Sarma and I'm a B.Tech Artificial Intelligence + Data Science Student</p>
 
 ###
 
